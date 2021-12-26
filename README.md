@@ -12,7 +12,7 @@ step:
 python manage.py runserver ----->run command,
 
 migration step:
-1.python manage.py makemigrations,2.>python manage.py migrate,
+1.python manage.py makemigrations,  2.python manage.py migrate,
 
 create superuser:
 1.python manage.py createsuperuser
