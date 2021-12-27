@@ -16,7 +16,7 @@ migration step:
 
 create superuser:
 1.python manage.py createsuperuser
-2.Username: admin
+2.Username: *****
   Email address: abc***@gmail.com
   Password: 
   Password (again):
@@ -26,4 +26,4 @@ create superuser:
   Bypass password validation and create user anyway? [y/N]: y
   Superuser created successfully.
   
-  userid: admin, psw:admin
+  
